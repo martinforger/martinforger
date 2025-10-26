@@ -8,6 +8,8 @@
   </a>
 </p>
 
+![GitHub Snake](https://github.com/martinforger/martinforger/blob/output/github-contribution-grid-snake-dark.svg)
+
 <h3>🧑‍💻 About Me</h3>
 <p>
     I'm a full-stack developer and computer engineering student with a profound passion for optimization and efficiency. My focus is on developing complete, adaptable, and robust solutions that not only solve problems but also scale seamlessly. I'm driven by the challenge of creating automated systems that streamline processes.
