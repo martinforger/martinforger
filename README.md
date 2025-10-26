@@ -17,10 +17,10 @@
 
 <h3>🧑‍💻 About Me</h3>
 <p>
-    I'm a full-stack developer and computer engineering student with a profound passion for optimization and efficiency. My focus is on developing complete, adaptable, and robust solutions that not only solve problems but also scale seamlessly. I'm driven by the challenge of creating automated systems that streamline processes.
+    I'm a <b>full-stack developer</b> and computer engineering student with a profound passion for <b>optimization and efficiency</b>. My focus is on developing complete, adaptable, and robust solutions that not only solve problems but also scale seamlessly. I'm driven by the challenge of creating automated systems that streamline processes.
 </p>
 <p>
-    Beyond full-stack development, I have a strong interest in Artificial Intelligence, particularly Machine Learning and computer vision..
+    Beyond full-stack development, I have a strong interest in <b>Artificial Intelligence</b>, particularly <b>Machine Learning</b> and <b>computer vision</b>.
 </p>
 
 
